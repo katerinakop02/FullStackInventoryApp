@@ -1,0 +1,6 @@
+@FullStackInventoryApp.Server_HostAddress = http://localhost:5046
+
+GET {{FullStackInventoryApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

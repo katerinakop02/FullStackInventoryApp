@@ -1,0 +1,1 @@
+C:\Users\kater\source\repos\FullStackInventoryApp\fullstackinventoryapp.client\obj\Debug\fullstackinventoryapp.client.esproj.CoreCompileInputs.cache
