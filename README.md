@@ -1,0 +1,2 @@
+# FullStackInventoryApp
+Simple inventory system
